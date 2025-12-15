@@ -1,7 +1,7 @@
 # Hi, I'm João Victor 👋
 
 I'm a **chemical engineer** focused on **industrial data analysis, process optimization, and automation**, applying **data science and machine learning** to solve real industrial problems.  
-My background includes work with **mineralogy, iron ore characterization, and laboratory data**, which supports data-driven analysis of materials and industrial processes.
+My background includes work with **mineralogy, iron ore characterization, and laboratory data**, which supports data-driven analysis of materials and industrial processes.=,
 
 ## 🔧 What I work with
 - Data analysis applied to industrial and metallurgical processes  
